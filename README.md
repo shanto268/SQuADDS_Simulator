@@ -1,6 +1,4 @@
-# ![Under Development](https://img.shields.io/badge/Status-Under%20Development-yellow) SQuADDS: 
- Simulator
-
+# ![Under Development](https://img.shields.io/badge/Status-Under%20Development-yellow) SQuADDS Simulator: 
 
 Execute standard simulation and analysis workflows for superconducting quantum devices using `design` objects from the [SQuADDS](https://github.com/shanto268/SQuADDS/) database, leveraging the capabilities of Qiskit Metal and Ansys Electronics.
 
